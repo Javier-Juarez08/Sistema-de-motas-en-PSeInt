@@ -1,0 +1,23 @@
+Nombre: Javier Juarez carnet: 26-359-0212
+Sistema de Notas
+1.Menu de selecion
+	Seleccionar al estudiante
+	Notas de los estudiantes
+	estadisicas 
+	Asignar puntos estras
+2.estudiante seleccionado
+	asignar 5 notas entre 0 a 100
+	calcular el promedio del estudiante
+	mostrar la nota mas alta
+	opcion salir del estudiante
+3.Mostrar las 5 notas y asignar una nota entre 0 a 100
+4.Sumar las notas y promediar
+5.mostrar las notas de mayor a menor del estudiante
+6.opcion regresar al menu 
+7.Mostras las notas de todos los estudiantes
+8.opcion regresar al menu
+9.Mostrar estadisticas de los estudiantes
+10.Aignar notas extrar
+	.seleccionar al estudiante
+	   .asignar la notas
+11.Opcion de regresara a la lsita de estudiantes y regresar al menu
